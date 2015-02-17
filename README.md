@@ -4,6 +4,8 @@ This image is built to run on ARMv7 devices, like the Raspberry Pi 2. It can be 
 
 [Source code is on GitHub](https://github.com/oysteinjakobsen/docker-armv7-oracle-java8)
 
+> TIP: Check out [this article](http://blog.hypriot.com/kick-ass-raspberry-pi-2-having-a-forbidden-love-affair-with-docker-1-dot-4-1) if you haven't yet got Docker up and running on your Raspberry Pi 2.
+
 # How to use this image
 
 ## Run a simple Java program
